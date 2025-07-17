@@ -182,8 +182,7 @@ This interactive dashboard demonstrates multiple visualization techniques workin
 
 **Data Source**: Gapminder dataset (1952-2007)  
 **Built with**: Streamlit + Plotly  
-**Author**: [Your Name]  
-**Course**: [Your Course]
+**Author**: Frank WANG 
 """)
 
 # Technical details
